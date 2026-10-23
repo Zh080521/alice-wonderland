@@ -1,0 +1,7 @@
+﻿*.html -text
+*.mp4 binary
+*.png binary
+*.webp binary
+*.jpg binary
+_tmp/
+*.log
